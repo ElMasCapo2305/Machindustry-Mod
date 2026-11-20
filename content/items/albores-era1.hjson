@@ -1,0 +1,10 @@
+name: Albores
+description: Los primeros pasos de la industria.
+color: "e8a33d"
+hideDatabase: true
+alwaysUnlocked: true
+
+research: {
+  parent: colonus-core
+  alwaysUnlocked: true
+}
