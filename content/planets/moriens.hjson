@@ -1,0 +1,36 @@
+generator: PlanetGenerator
+localizedName: "Moriens"
+parent: "sun"
+solarSystem: "moriens"
+orbitRadius: 5000
+orbitSpacing: 8
+radius: 5
+bloom: true
+hasAtmosphere: false
+drawOrbit: false
+tidalLock: false
+rotateTime: 600
+accessible: true
+visible: true
+iconColor: "ff4d00"
+icon: "planet"
+
+mesh: {
+  type: SunMesh
+  divisions: 3
+  octaves: 4
+  persistence: 0.6
+  scl: 1
+  pow: 1
+  mag: 0.5
+  colorScale: 1
+  colors: [
+    "7a0f00"
+    "b81d00"
+    "e03a00"
+    "ff4d00"
+    "ff6a1a"
+    "ff8c3a"
+    "ffb066"
+  ]
+}
