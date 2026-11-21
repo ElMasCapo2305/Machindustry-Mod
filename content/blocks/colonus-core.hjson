@@ -9,7 +9,6 @@ unitType: beta
 
 research: {
   root: true
-  name: "Orpheon"
   planet: "orpheon"
   alwaysUnlocked: true
 }
