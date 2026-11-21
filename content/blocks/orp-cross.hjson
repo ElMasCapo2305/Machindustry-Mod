@@ -15,6 +15,7 @@ requirements: [
 research: {
   parent: orp-copper-conveyor
   requirements: [
-    copper/50
+    copper/20
+    iron-ingot/5
   ]
 }
