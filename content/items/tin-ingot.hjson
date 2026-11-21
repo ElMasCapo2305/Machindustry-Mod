@@ -1,0 +1,5 @@
+type: Item
+name: Estaño
+description: Metal blando y plateado. Se funde con el cobre para hacer bronce.
+color: "A1A8B2"
+cost: 0.5
