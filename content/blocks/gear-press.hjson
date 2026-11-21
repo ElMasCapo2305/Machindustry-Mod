@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Prensa de Engranajes
+description: Fabrica engranajes de bronce a mano. Muy lento.
+size: 2
+health: 160
+category: crafting
+hasItems: true
+craftTime: 120
+
+requirements: [
+  copper/50
+  bronze-ingot/10
+  iron-ingot/10
+]
+
+consumes: {
+  items: [
+    bronze-ingot/2
+  ]
+}
+
+outputItem: bronze-gear/1
+
+research: {
+  parent: bronze-kiln
+  requirements: [
+    copper/250
+  ]
+}
