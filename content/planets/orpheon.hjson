@@ -2,6 +2,7 @@ name: "Orpheon"
 generator: PlanetGenerator
 sectorSize: 2
 startSector: 0
+defaultCore: colonus-core
 parent: moriens
 solarSystem: moriens
 orbitRadius: 80
