@@ -1,0 +1,5 @@
+type: Item
+name: Hierro
+description: Metal resistente que se obtiene al separar la chatarra.
+color: "89949B"
+cost: 0.5
