@@ -3,3 +3,4 @@ name: Engranaje de Bronce
 description: Pieza mecánica de bronce, necesaria en muchas maquinarias.
 color: "997648"
 cost: 1
+research: bronze-ingot
