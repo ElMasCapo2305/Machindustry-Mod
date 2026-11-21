@@ -6,6 +6,7 @@ health: 100
 speed: 0.035f 
 displayedSpeed: 5
 itemCapacity: 3
+junctionReplacement: orp-cross
 
 requirements: [
   copper/2
