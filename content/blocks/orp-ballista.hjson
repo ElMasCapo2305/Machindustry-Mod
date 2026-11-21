@@ -20,7 +20,7 @@ ammoTypes: {
     height: 12
     ammoMultiplier: 2
   }
-  lingote-hierro: {
+  iron-ingor: {
     type: BasicBulletType
     damage: 35
     speed: 4.5
@@ -29,7 +29,7 @@ ammoTypes: {
     height: 12
     ammoMultiplier: 2
   }
-  lingote-bronce: {
+  bronze-ingot: {
     type: BasicBulletType
     damage: 50
     speed: 5
