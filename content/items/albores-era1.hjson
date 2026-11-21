@@ -5,7 +5,5 @@ hideDatabase: true
 
 research: {
   parent: colonus-core
-  requirements: [
-    copper/50
-  ]
+  alwaysUnlocked: true
 }
