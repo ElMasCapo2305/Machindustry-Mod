@@ -20,7 +20,7 @@ ammoTypes: {
     height: 12
     ammoMultiplier: 2
   }
-  iron-ingor: {
+  iron-ingot: {
     type: BasicBulletType
     damage: 35
     speed: 4.5
