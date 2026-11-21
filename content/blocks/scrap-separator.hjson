@@ -25,7 +25,7 @@ results: [
 ]
 
 research: {
-  parent: albores
+  parent: albores-era1
   requirements: [
     copper/150
   ]
