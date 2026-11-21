@@ -6,6 +6,7 @@ health: 1800
 itemCapacity: 6500
 unitCapModifier: 8
 unitType: beta
+alwaysUnlocked: true
 
 research: {
   root: true
