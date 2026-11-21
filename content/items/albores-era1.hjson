@@ -2,10 +2,9 @@ name: Era Albores
 description: Los primeros pasos de la industrialización.
 color: "e8a33d"
 hideDatabase: true
+alwaysUnlocked: true
 
 research: {
   parent: colonus-core
-  requirements: [
-    copper/50
-  ]
+  alwaysUnlocked: true
 }
