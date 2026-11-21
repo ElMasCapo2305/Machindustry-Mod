@@ -13,6 +13,7 @@ requirements: [
 research: {
   parent: orp-cross
   requirements: [
-    copper/75
+    copper/20
+    iron-ingot/5
   ]
 }
