@@ -4,7 +4,7 @@ description: Dispara virotes. Usa cobre, hierro o bronce como munición.
 size: 2
 health: 450
 category: turret
-reload: 30
+reload: 15
 range: 140
 inaccuracy: 2
 maxAmmo: 20
