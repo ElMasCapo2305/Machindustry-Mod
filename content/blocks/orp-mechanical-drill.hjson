@@ -5,6 +5,7 @@ category: production
 size: 2
 tier: 2
 drillTime: 600
+liquidBoostIntensity: 1
 
 requirements: [
   copper/12
