@@ -5,7 +5,7 @@ size: 3
 health: 1800
 itemCapacity: 6500
 unitCapModifier: 8
-unitType: beta
+unitType: gamma
 alwaysUnlocked: true
 
 research: {
