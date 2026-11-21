@@ -7,6 +7,11 @@ category: crafting
 hasPower: false
 hasLiquids: false
 craftTime: 180
+ 
+requirements: [
+  copper/30
+  scrap/20
+]
 
 consumes: {
   items: [
@@ -17,12 +22,6 @@ consumes: {
 results: [
   iron-ingot/5
   tin-ingot/2
-]
-
-
-requirements: [
-  copper/40
-  scrap/20
 ]
 
 research: {
