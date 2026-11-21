@@ -1,0 +1,33 @@
+type: Separator
+name: Separador de Chatarra
+description: Separa a mano la chatarra en hierro y estaño. Muy lento.
+size: 2
+health: 150
+category: crafting
+hasPower: false
+hasLiquids: false
+craftTime: 180
+
+consumes: {
+  items: [
+    scrap/2
+  ]
+}
+
+results: [
+  iron-ingot/5
+  tin-ingot/2
+]
+
+
+requirements: [
+  copper/40
+  scrap/20
+]
+
+research: {
+  parent: albores
+  requirements: [
+    copper/150
+  ]
+}
