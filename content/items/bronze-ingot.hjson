@@ -3,3 +3,4 @@ name: Bronce
 description: Aleación de cobre y estaño. Resiste el desgaste y la corrosión.
 color: "C1823B"
 cost: 0.5
+research: tin-ingot
