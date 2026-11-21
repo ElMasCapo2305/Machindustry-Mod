@@ -9,7 +9,8 @@ buildCostMultiplier: 6
 underBullets: true
 
 requirements: [
-  copper/2
+  copper/1
+  iron-ingot/1
 ]
 
 research: {
