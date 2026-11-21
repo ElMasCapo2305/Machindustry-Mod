@@ -2,5 +2,5 @@ name: "machindustry"
 displayName: "Machindustry"
 author: "ElMasCapo"
 description: "Un mod de industrial, era por era."
-version: "0.1.0"
+version: "0.1.1"
 minGameVersion: 146
