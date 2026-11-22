@@ -1,0 +1,18 @@
+type: Wall
+name: Muro de bronce
+description: Defensa barata contra proyectiles enemigos.
+size: 1
+health: 320
+
+requirements: [
+  bronze-ingot/6
+]
+
+category: defense
+
+research: {
+parent: orp-ballista
+  requirements: [
+    bronze-ingot/35
+  ]
+}
