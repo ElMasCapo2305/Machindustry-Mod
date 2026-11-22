@@ -10,7 +10,7 @@ underBullets: true
 
 requirements: [
   copper/1
-  iron-ingot/1
+  iron-ingot/2
 ]
 
 research: {
