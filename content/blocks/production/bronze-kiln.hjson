@@ -9,8 +9,8 @@ craftTime: 150
 updateEffect: smeltsmoke
 
 requirements: [
-  copper/50
-  iron-ingot/15
+  copper/30
+  iron-ingot/10
 ]
 
 consumes: {
