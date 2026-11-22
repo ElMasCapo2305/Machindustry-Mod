@@ -2,9 +2,9 @@ type: Router
 name: Distribuidor
 description: Reparte los objetos entrantes hasta en siete direcciones.
 category: distribution
-size
+size: 2
 speed: 12
-buildCostMultiplier:4 
+buildCostMultiplier: 4 
 underBullets: true
 
 requirements: [
