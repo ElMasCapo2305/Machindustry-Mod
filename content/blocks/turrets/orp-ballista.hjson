@@ -41,6 +41,7 @@ ammoTypes: {
     status: blasted
   }
 }
+shootSound: ballista-shoot
 
 requirements: [
   copper/25
