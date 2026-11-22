@@ -1,30 +1,29 @@
 type: GenericCrafter
-name: Horno de Bronce
-description: Funde cobre y estaño para hacer bronce. Muy lento.
+name: Prensa de engranaje
+description: Fabrica engranajes de bronce a mano. Muy lento.
 size: 2
-health: 180
+health: 150
 category: crafting
 hasItems: true
-craftTime: 120
-updateEffect: smeltsmoke
-
-requirements: [
-  copper/50
-  iron-ingot/15
-]
+craftTime: 300
 
 consumes: {
   items: [
-    copper/2
-    tin-ingot/1
+    bronze-ingot/1 
   ]
 }
 
-outputItem: bronze-ingot/2
+outputItem: bronze-gear/2
+
+requirements: [
+  copper/35
+  bronze-ingot/10
+]
 
 research: {
-  parent: scrap-separator
+  parent: bronze-kiln
   requirements: [
-    copper/200
+    copper/100
+    iron-ingot/20
   ]
 }
