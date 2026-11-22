@@ -13,6 +13,6 @@ category: defense
 research: {
 parent: orp-ballista
   requirements: [
-    bronze-ingot/35
+    bronze-ingot/60
   ]
 }
