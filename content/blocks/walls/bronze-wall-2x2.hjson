@@ -1,0 +1,18 @@
+type: Wall
+name: Muro de bronce grande
+description: Protección barata contra proyectiles enemigos.
+size: 2
+health: 1280
+
+requirements: [
+  bronze-ingot/24
+]
+
+category: defense
+
+research: {
+  parent: bronze-wall-1x1
+  requirements: [
+    bronze-ingot/50
+  ]
+}
