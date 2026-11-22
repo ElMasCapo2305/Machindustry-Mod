@@ -13,6 +13,7 @@ requirements: [
 research: {
   parent: orp-router
   requirements: [
-    copper/80
+    copper/35
+    iron-ingot/10
   ]
 }
