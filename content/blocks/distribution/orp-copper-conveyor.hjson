@@ -10,7 +10,7 @@ junctionReplacement: orp-cross
 bridgeReplacement: orp-bridge-conveyor
 
 requirements: [
-  copper/2
+  copper/1
 ]
 
 research: {
