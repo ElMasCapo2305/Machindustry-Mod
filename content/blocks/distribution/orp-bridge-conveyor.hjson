@@ -14,7 +14,7 @@ requirements: [
 ]
 
 research: {
-  parent: orp-sorter
+  parent: orp-router
   requirements: [
     copper/45
     iron-ingot/15
