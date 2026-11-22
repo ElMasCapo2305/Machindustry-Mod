@@ -25,6 +25,7 @@ outputItem: bronze-ingot/2
 research: {
   parent: scrap-separator
   requirements: [
-    copper/200
+    copper/80
+    iron-ingot/20
   ]
 }
