@@ -1,6 +1,6 @@
 planet: orpheon
 sector: 0
 difficulty: 5
-captureWave: 25
+captureWave: 15
 requireUnlock: false
 addStartingItems: false
