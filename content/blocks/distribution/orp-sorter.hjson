@@ -1,0 +1,19 @@
+type: Sorter
+name: Clasificador
+description: Deja pasar solo el objeto elegido y desvía el resto.
+category: distribution
+health: 30
+buildCostMultiplier: 3
+underBullets: true
+
+requirements: [
+  copper/3
+]
+
+research: {
+  parent: orp-router
+  requirements: [
+    copper/35
+    iron-ingot/10
+  ]
+}
