@@ -1,0 +1,22 @@
+type: Junction
+name: Cruce
+description: Cruza dos líneas de objetos sin que se mezclen.
+category: distribution
+health: 30
+speed: 26
+capacity: 6
+buildCostMultiplier: 6
+underBullets: true
+
+requirements: [
+  copper/1
+  iron-ingot/1
+]
+
+research: {
+  parent: orp-copper-conveyor
+  requirements: [
+    copper/20
+    iron-ingot/5
+  ]
+}
