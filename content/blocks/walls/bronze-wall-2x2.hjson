@@ -13,6 +13,6 @@ category: defense
 research: {
   parent: bronze-wall-1x1
   requirements: [
-    bronze-ingot/50
+    bronze-ingot/150
   ]
 }
