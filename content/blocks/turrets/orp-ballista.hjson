@@ -1,0 +1,56 @@
+type: ItemTurret
+name: Ballesta
+description: Dispara virotes. Usa cobre, hierro o bronce como munición.
+size: 2
+health: 450
+category: turret
+reload: 15
+range: 140
+inaccuracy: 2
+maxAmmo: 20
+targetAir: true
+
+ammoTypes: {
+  copper: {
+    type: BasicBulletType
+    damage: 20
+    speed: 4
+    lifetime: 40
+    width: 5
+    height: 12
+    ammoMultiplier: 2
+  }
+  iron-ingot: {
+    type: BasicBulletType
+    damage: 35
+    speed: 4.5
+    lifetime: 40
+    width: 5
+    height: 12
+    ammoMultiplier: 2
+  }
+  bronze-ingot: {
+    type: BasicBulletType
+    damage: 50
+    speed: 5
+    lifetime: 36
+    width: 5
+    height: 12
+    ammoMultiplier: 1
+  }
+}
+
+requirements: [
+  copper/25
+  iron-ingot/15
+  bronze-gear/5
+]
+
+research: {
+  parent: albores-era1
+  requirements: [
+    copper/100
+    iron-ingot/50
+    bronze-gear/15
+  ]
+}
