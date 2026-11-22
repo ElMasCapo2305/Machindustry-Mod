@@ -16,8 +16,8 @@ consumes: {
 outputItem: bronze-gear/2
 
 requirements: [
-  copper/35
-  bronze-ingot/10
+  copper/40
+  iron-ingot/15
 ]
 
 research: {
