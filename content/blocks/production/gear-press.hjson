@@ -7,6 +7,11 @@ category: crafting
 hasItems: true
 craftTime: 300
 
+requirements: [
+  copper/40
+  iron-ingot/15
+]
+
 consumes: {
   items: [
     bronze-ingot/1 
@@ -14,11 +19,6 @@ consumes: {
 }
 
 outputItem: bronze-gear/2
-
-requirements: [
-  copper/40
-  iron-ingot/15
-]
 
 research: {
   parent: bronze-kiln
