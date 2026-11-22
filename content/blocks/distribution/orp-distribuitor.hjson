@@ -1,0 +1,20 @@
+type: Router
+name: Enrutador
+description: Reparte los objetos entrantes hasta en siete direcciones.
+category: distribution
+speed: 12
+buildCostMultiplier:4 
+underBullets: true
+
+requirements: [
+  copper/4
+  iron-ingot/4
+]
+
+research: {
+  parent: orp-router
+  requirements: [
+    copper/30
+    iron-ingot/15
+  ]
+}
