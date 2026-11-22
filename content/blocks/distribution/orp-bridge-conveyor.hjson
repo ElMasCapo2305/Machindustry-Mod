@@ -1,0 +1,22 @@
+type: BufferedItemBridge
+name: Puente de Cinta
+description: Lleva objetos por encima de otras cintas y obstáculos.
+category: distribution
+health: 80
+range: 4
+speed: 74
+arrowSpacing: 6
+bufferCapacity: 14
+
+requirements: [
+  copper/6
+  iron-ingot/3
+]
+
+research: {
+  parent: orp-sorter
+  requirements: [
+    copper/45
+    iron-ingot/15
+  ]
+}
