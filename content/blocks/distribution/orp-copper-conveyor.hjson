@@ -7,7 +7,7 @@ speed: 0.035f
 displayedSpeed: 5
 itemCapacity: 3
 junctionReplacement: orp-cross
-junctionReplacement: orp-bridge-conveyor
+bridgeReplacement: orp-bridge-conveyor
 
 requirements: [
   copper/2
