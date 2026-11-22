@@ -16,6 +16,7 @@ requirements: [
 research: {
   parent: orp-sorter
   requirements: [
-    copper/100
+    copper/45
+    iron-ingot/15
   ]
 }
