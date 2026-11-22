@@ -1,5 +1,5 @@
 type: Router
-name: Enrutador
+name: Distribuidor
 description: Reparte los objetos entrantes hasta en siete direcciones.
 category: distribution
 speed: 12
