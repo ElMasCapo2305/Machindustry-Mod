@@ -20,7 +20,7 @@ consumes: {
 }
 
 results: [
-  iron-ingot/7
+  iron-ingot/6
   tin-ingot/3
 ]
 
