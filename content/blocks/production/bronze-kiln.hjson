@@ -1,0 +1,30 @@
+type: GenericCrafter
+name: Horno de Bronce
+description: Funde cobre y estaño para hacer bronce. Muy lento.
+size: 2
+health: 180
+category: crafting
+hasItems: true
+craftTime: 150
+updateEffect: smeltsmoke
+
+requirements: [
+  copper/50
+  iron-ingot/15
+]
+
+consumes: {
+  items: [
+    copper/2
+    tin-ingot/1
+  ]
+}
+
+outputItem: bronze-ingot/2
+
+research: {
+  parent: scrap-separator
+  requirements: [
+    copper/200
+  ]
+}
