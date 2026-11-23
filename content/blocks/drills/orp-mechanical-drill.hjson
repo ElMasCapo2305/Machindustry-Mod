@@ -14,6 +14,6 @@ requirements: [
 research: {
   parent: albores-era1
   requirements: [
-    copper/50
+    copper/15
   ]
 }
