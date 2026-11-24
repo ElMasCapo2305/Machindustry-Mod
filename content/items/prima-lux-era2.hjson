@@ -1,0 +1,8 @@
+name: Era Prima Lux
+description: Los primeros pasos a las tecnologías eléctricas.
+color: "e8a33d"
+hideDatabase: true
+
+research: {
+  parent: albores-era1
+}
