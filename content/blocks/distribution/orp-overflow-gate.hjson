@@ -1,0 +1,20 @@
+type: OverflowGate
+name: Compuerta de Desborde
+description: Envía los objetos al frente. Si el frente está lleno, los saca por los lados.
+category: distribution
+health: 30
+buildCostMultiplier: 3
+underBullets: true
+
+requirements: [
+  copper/1
+  iron-ingot/4
+]
+
+research: {
+  parent: orp-sorter
+  requirements: [
+    copper/50
+    iron-ingot/50
+  ]
+}
