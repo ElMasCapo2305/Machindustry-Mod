@@ -1,0 +1,21 @@
+type: Sorter
+name: Clasificador Invertido
+description: Desvía el objeto elegido y deja pasar todos los demás.
+category: distribution
+invert: true
+health: 30
+buildCostMultiplier: 3
+underBullets: true
+
+requirements: [
+  copper/2
+  iron-ingot/2
+]
+
+research: {
+  parent: orp-sorter
+  requirements: [
+    copper/35
+    iron-ingot/20
+  ]
+}
