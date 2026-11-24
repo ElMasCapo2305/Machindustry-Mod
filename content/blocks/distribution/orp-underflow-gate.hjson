@@ -1,0 +1,21 @@
+type: OverflowGate
+name: Compuerta de Desborde Invertida
+description: Envía los objetos por los lados. Si los lados están llenos, los saca al frente.
+category: distribution
+invert: true
+health: 30
+buildCostMultiplier: 3
+underBullets: true
+
+requirements: [
+  copper/2
+  iron-ingot/4
+]
+
+research: {
+  parent: orp-overflow-gate
+  requirements: [
+    copper/75
+    iron-ingot/75
+  ]
+}
