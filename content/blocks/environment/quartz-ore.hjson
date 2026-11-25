@@ -1,0 +1,4 @@
+type: OreBlock
+name: Mena de Cuarzo
+itemDrop: quartz
+variants: 3
