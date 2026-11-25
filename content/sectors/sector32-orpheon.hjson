@@ -1,0 +1,7 @@
+localizedName:  skibidi sector
+planet: orpheon
+sector: 32
+difficulty: 6
+captureWave: 15
+requireUnlock: false
+addStartingItems: false
