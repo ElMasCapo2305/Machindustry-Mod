@@ -1,0 +1,31 @@
+type: GenericCrafter
+name: Trefiladora Mecánica
+description: Estira cobre hasta convertirlo en cable. Muy Lenta.
+size: 2
+health: 180
+category: crafting
+hasItems: true
+craftTime: 120
+
+consumes: {
+  items: [
+    copper/3
+  ]
+}
+
+outputItem: copper-wire/1
+
+requirements: [
+  copper/40
+  iron-ingot/30
+  bronze-gear/25
+]
+
+research: {
+  parent: prima-lux-era2
+  requirements: [
+    copper/1000
+    iron-ingot/500
+    bronze-gear/100
+  ]
+}
