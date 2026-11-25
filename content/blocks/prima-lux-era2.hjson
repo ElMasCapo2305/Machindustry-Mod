@@ -1,0 +1,21 @@
+type: Wall
+name: Era Prima Lux
+description: Los primeros pasos a las tecnologías eléctricas.
+size: 1
+health: 1
+
+research: {
+  parent: albores-era1
+  requirements: [
+    bronze-gear/1500
+    iron-ingot/2000
+    bronze-ingot/750
+    tin-ingot/500
+  ]
+  objectives: [
+    {
+      type: SectorComplete
+      preset: sector0-orpheon
+    }
+  ]
+}
