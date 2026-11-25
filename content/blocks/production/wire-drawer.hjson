@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Trefiladora Mecánica
-description: Estira cobre hasta convertirlo en cable. Muy Lenta.
+description: Estira cobre hasta convertirlo en cable. Muy lenta.
 size: 2
 health: 180
 category: crafting
