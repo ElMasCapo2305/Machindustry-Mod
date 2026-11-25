@@ -1,0 +1,11 @@
+type: Item
+name: Cuarzo
+description: Mineral cristalino utilizado en fabricación de vidrios y como materia prima industrial. 
+cost: 0.5
+color: "F8ECF5"
+explosiveness: 0
+flammability: 0
+radioactivity: 0
+charge: 0
+hardness: 2
+research: prima-lux-era2
