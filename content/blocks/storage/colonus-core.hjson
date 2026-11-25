@@ -9,8 +9,8 @@ unitType: gamma
 alwaysUnlocked: true
 
 requirements: [
-  copper/2500
-  iron-ingot/1500
+  copper/2000
+  iron-ingot/1000
   bronze-ingot/500
   tin-ingot/500
   bronze-gear/250
