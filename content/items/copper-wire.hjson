@@ -4,5 +4,5 @@ color: "d98a5a"
 cost: 0.5
 
 research: {
-  parent: prima-lux-era2
+  parent: iron-ingot
 }
