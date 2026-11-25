@@ -1,0 +1,13 @@
+type: Wall
+name: Era Prima Lux
+description: Los primeros pasos a las tecnologías eléctricas.
+size: 1
+health: 1
+alwaysUnlocked: true
+
+research: {
+  parent: colonus-core
+  requirements: [
+    alwaysUnlocked: true
+  ]
+}
