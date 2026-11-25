@@ -8,4 +8,10 @@ addStartingItems: false
 
 research: {
   parent: sector0-orpheon
+objectives: [
+    {
+      type: SectorComplete
+      preset: sector0-orpheon
+    }
+  ]
 }
