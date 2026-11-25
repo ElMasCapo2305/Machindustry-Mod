@@ -7,8 +7,8 @@ health: 1
 research: {
   parent: albores-era1
   requirements: [
-    bronze-gear/1500
     iron-ingot/2000
+    bronze-gear/1000
     bronze-ingot/750
     tin-ingot/500
   ]
