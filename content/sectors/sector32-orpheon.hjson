@@ -3,5 +3,9 @@ planet: orpheon
 sector: 32
 difficulty: 6
 captureWave: 15
-requireUnlock: false
+requireUnlock: true
 addStartingItems: false
+
+research: {
+  parent: sector0-orpheon
+}
