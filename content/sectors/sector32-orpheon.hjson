@@ -4,7 +4,8 @@ sector: 32
 difficulty: 6
 captureWave: 15
 requireUnlock: true
-addStartingItems: false
+allowLaunchLoadout: true
+launchCapacityMultiplier: 1
 
 research: {
   parent: sector0-orpheon
