@@ -4,6 +4,7 @@ sector: 32
 difficulty: 6
 captureWave: 15
 requireUnlock: true
+addStartingItems: true
 allowLaunchLoadout: true
 launchCapacityMultiplier: 1
 
